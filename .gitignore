@@ -1,0 +1,25 @@
+# Ignore Python environment and secrets
+.env
+*.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+
+# Ignore node_modules and build output
+node_modules/
+dist/
+build/
+.next/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore VSCode settings
+.vscode/
