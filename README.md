@@ -170,6 +170,3 @@ MIT License. See LICENSE file for details.
 
 ---
 
-## Author
-
-- Built by Aditya (and contributors)
